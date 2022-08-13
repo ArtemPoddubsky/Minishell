@@ -14,3 +14,5 @@ No support for  `\`  `;` `&&` `||` and wildcards.
 <h2> Usage </h2>
 
     make && ./minishell
+
+![ClearlyDefined Score](https://img.shields.io/badge/Success-100%2F100-brightgreen)
